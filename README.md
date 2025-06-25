@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+✌️ CS Student & AI Builder | Ex-Intern @ Ellucian | Fast learner who builds practical solutions | Creating RAG chatbots, predictive models & full-stack platforms that solve real problems 
+
 🌱 I’m currently learning Generative AI, ML and DL and DevOPs<br><br>👨‍💻 All of my projects are available at github.com/hari8github<br><br>📝 I regularly write articles on linkedin.com/in/harivenkat004<br><br>📫 How to reach me toharivenkat@gmail.com<br>
 
 
